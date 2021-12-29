@@ -1,5 +1,5 @@
 const apiKey='OlZJxDDidmK6mzSUkbZnT7EJaJzwWr-JkT4dFRuV6DM'
-const count=30;
+let count=15;
 const apiUrl=`https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 //https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY
